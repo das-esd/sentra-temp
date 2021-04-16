@@ -1,1 +1,1 @@
-# sentra-temp
+# Website Template - Sentra
